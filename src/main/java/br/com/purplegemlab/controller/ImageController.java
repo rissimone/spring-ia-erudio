@@ -1,7 +1,6 @@
 package br.com.purplegemlab.controller;
 
 import br.com.purplegemlab.service.ImageService;
-import org.springframework.ai.image.ImageGeneration;
 import org.springframework.ai.image.ImageResponse;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
